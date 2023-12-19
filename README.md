@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Kingerthanu
-- 👀 I’m interested in understanding a larger expanse of coding languages and helping better some tedious experiences
-- 🌱 I’m currently learning Python, C++, Java, NodeJS, JavaScript, and others. (I currently am very well rounded in Java and Python)
+- 👋 Hi, I’m @Kingerthanu; currently enrolled at Seattle University.
+- 📚 https://www.codewars.com/users/Kingerthanu
+- 📚 https://leetcode.com/Kingerthanu/
+- 👀 I’m interested in understanding a larger expanse of coding languages and helping better some tedious experiences.
+- 🌱 I’m currently learning Python, C++, Java, NodeJS, JavaScript, and others. (I currently am very well rounded in Java and Python).
 - 💞️ I’m looking to collaborate on my current projects, and am always welcome to tweaks and tips to my code.
 
 <!---
