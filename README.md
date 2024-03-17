@@ -2,7 +2,7 @@
 - 📚 https://www.codewars.com/users/Kingerthanu
 - 📚 https://leetcode.com/Kingerthanu/
 - 👀 I’m interested in understanding a larger expanse of coding languages and helping better some tedious experiences.
-- 🌱 I’m currently learning Python, C++, Java, NodeJS, JavaScript (heavy focus on C++ development).
+- 🌱 I’m currently learning Python, C++, C#, C, Java, and Web-Dev (heavy focus on C++ development).
 - 💞️ I’m looking to collaborate on my current projects, and am always welcome to tweaks and tips to my code.
 
 <!---
