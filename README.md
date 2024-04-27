@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kingerthanu; currently enrolled at Seattle University.
-- 👀 I’m interested in understanding a larger expanse of coding languages and helping better some tedious experiences.
+- 👀 Interested In Low-Level Development.
 - 🌱 I’m currently learning C++, C#, C, Python, Java, and Web-Dev (heavy focus on C++ development).
 - 💞️ I’m looking to collaborate on my current projects, and am always welcome to tweaks and tips to my code.
 - 📚 https://www.codewars.com/users/Kingerthanu
