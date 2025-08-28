@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kingerthanu; currently enrolled at Seattle University.
+- 👋 Hi, I’m @Kingerthanu; graduate Seattle University.
 - 👀 Interested In Low-Level Development.
 - 🌱 I’m currently learning C++, C#, C, Python, Java, and Web-Dev (heavy focus on C++ development).
 - 💞️ I’m looking to collaborate on my current projects, and am always welcome to tweaks and tips to my code.
